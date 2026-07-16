@@ -1,17 +1,108 @@
+<h1 align="center">Hi, I'm Bahar Abolhasani</h1>
 
-<h1 align="center">Hi 👋, I'm bahar</h1>
-<h3 align="center">A passionate developer from IRAN</h3>
+<h3 align="center">
+AI/ML Research Enthusiast | Computer Engineering Student
+</h3>
 
-- 🌱 I’m currently learning **php**
-
-- 📫 How to reach me **baharabolhasany2004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/bahar-abn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahar-abn" height="30" width="40" /></a>
+<p align="center">
+Building intelligent systems through Artificial Intelligence, Deep Learning, and Computer Vision.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+## About Me
+
+I am a Computer Engineering student passionate about Artificial Intelligence and developing practical AI-driven solutions.
+
+My main interests are in:
+
+- Artificial Intelligence and Machine Learning
+- Deep Learning
+- Computer Vision
+- Image Processing
+- Medical Image Analysis and Brain Image Processing
+- Natural Language Processing (NLP)
+
+Currently, I am focusing on **Image Processing and Computer Vision**, exploring how deep learning models can understand, analyse, and extract meaningful information from visual data.
+
+Throughout my journey, I have worked on several practical projects involving machine learning models, neural networks, data analysis, and intelligent systems, with a focus on building solutions that connect research concepts with real-world applications.
 
 
+## Areas of Interest
+
+- Deep Learning architectures
+- Convolutional Neural Networks (CNNs)
+- Image classification and object detection
+- Computer vision pipelines
+- Medical image processing
+- AI-powered applications
+- Natural Language Processing
+- Machine Learning engineering
+
+
+## Technical Skills
+
+### Artificial Intelligence & Machine Learning
+
+- Python
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Transformers
+- Hugging Face
+- Neural Networks
+- Deep Learning
+
+
+### Computer Vision & Image Processing
+
+- OpenCV
+- Image preprocessing
+- Feature extraction
+- CNN-based vision models
+- Object detection
+- Image classification
+- Medical image analysis
+
+
+### Programming & Development
+
+- C++
+- JavaScript
+- PHP
+- HTML/CSS
+- SQL
+- Git
+
+
+## Projects
+
+I enjoy building practical projects that combine software engineering with AI research.
+
+Some areas I have explored:
+
+- Deep Learning based image classification systems
+- AI models for prediction and analysis
+- Computer vision applications
+- NLP-based intelligent systems
+- Machine learning solutions for real-world problems
+
+
+## Currently Learning
+
+- Advanced Deep Learning
+- Computer Vision Research
+- Large Language Models (LLMs)
+- MLOps and AI deployment
+- AI applications in cybersecurity
+
+
+## Connect With Me
+
+Email:
+baharabolhasany2004@gmail.com
+
+LinkedIn:
+(Add your LinkedIn link)
+
+GitHub:
+https://github.com/bahar-abn
