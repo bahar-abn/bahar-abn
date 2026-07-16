@@ -1,40 +1,25 @@
-```markdown
 <div align="center">
-
-<!-- ============================================================ -->
-<!-- HERO SECTION WITH BANNER (REPLACE LINK BELOW)                -->
-<!-- ============================================================ -->
 
 <img src="YOUR_BANNER_GIF_LINK_HERE" width="100%" alt="Banner"/>
 
-<br/>
-<br/>
+<br/><br/>
 
-# 👋 Hi, I'm Bahar Abolhasani
+<h1>👋 Hi, I'm Bahar Abolhasani</h1>
 
-### 🧠 AI Engineer • Computer Vision Researcher • Deep Learning Enthusiast
+<h3>🧠 AI Engineer • Computer Vision Researcher • Deep Learning Enthusiast</h3>
 
 <p>
-<i>Building intelligent AI systems that solve real-world problems.</i>
+  <i>Building intelligent AI systems that solve real-world problems.</i>
 </p>
 
 <br/>
-
-<!-- ============================================================ -->
-<!-- ANIMATED TYPING                                               -->
-<!-- ============================================================ -->
 
 <img 
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Computer+Vision+Researcher;Deep+Learning+Enthusiast;Machine+Learning+Engineer;LLM+Developer;Backend+Architect;Open+Source+Contributor"
   alt="Typing Animation"
 />
 
-<br/>
-<br/>
-
-<!-- ============================================================ -->
-<!-- SOCIAL BUTTONS                                                -->
-<!-- ============================================================ -->
+<br/><br/>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -52,12 +37,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<br/>
-<br/>
-
-<!-- ============================================================ -->
-<!-- DIVIDER                                                      -->
-<!-- ============================================================ -->
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
@@ -65,17 +45,9 @@
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- AI CONSOLE SECTION                                            -->
-<!-- ============================================================ -->
-
-<div align="center">
-
 ## 💻 AI Console
 
-</div>
-
-```text
+<pre>
 visitor@github:~$ whoami
 
 Bahar Abolhasani
@@ -105,21 +77,13 @@ Focus Areas:
 • MLOps
 
 visitor@github:~$ _
-```
+</pre>
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- ABOUT ME SECTION                                              -->
-<!-- ============================================================ -->
-
-<div align="center">
-
 ## 🧠 About Me
 
-</div>
-
-```text
+<pre>
 🎓 Computer Engineering Student passionate about Artificial Intelligence
 
 🤖 Research Interests:
@@ -137,19 +101,11 @@ visitor@github:~$ _
 
 💡 Philosophy:
    "Turning research into real-world intelligent systems."
-```
+</pre>
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- TECH SKILLS                                                   -->
-<!-- ============================================================ -->
-
-<div align="center">
-
 ## 🛠️ Tech Stack
-
-</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,fastapi,flask,js,php,html,css,mysql,postgresql,mongodb,redis,git,github,docker,kubernetes,linux,nginx,postman,vscode,neovim&theme=dark" />
@@ -161,17 +117,9 @@ visitor@github:~$ _
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- AREAS OF EXPERTISE                                            -->
-<!-- ============================================================ -->
-
-<div align="center">
-
 ## 📊 Areas of Expertise
 
-</div>
-
-```text
+<pre>
 ┌─────────────────────────────────────────────────────────┐
 │                    SKILL MATRIX                         │
 ├────────────────┬──────────────┬─────────────────────────┤
@@ -186,19 +134,11 @@ visitor@github:~$ _
 │                 ██████████████████████████████████████ │
 │                 Backend Development (FastAPI/Flask)     │
 └─────────────────────────────────────────────────────────┘
-```
+</pre>
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- FEATURED PROJECTS                                             -->
-<!-- ============================================================ -->
-
-<div align="center">
-
 ## 🚀 Featured AI Projects
-
-</div>
 
 <table align="center">
   <tr>
@@ -269,15 +209,7 @@ visitor@github:~$ _
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- GITHUB STATS                                                  -->
-<!-- ============================================================ -->
-
-<div align="center">
-
 ## 📊 GitHub Analytics
-
-<br/>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bahar-abn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -286,74 +218,40 @@ visitor@github:~$ _
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- STREAK STATS                                                  -->
-<!-- ============================================================ -->
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahar-abn&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- ACTIVITY GRAPH                                                -->
-<!-- ============================================================ -->
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahar-abn&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=00d4ff&point=00d4ff"/>
 
-<br/>
-
-<!-- ============================================================ -->
-<!-- CONTRIBUTION SNAKE (REPLACE LINK BELOW)                      -->
-<!-- ============================================================ -->
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/bahar-abn/bahar-abn/output/github-contribution-grid-snake.svg"/>
 
-</div>
-
 <br/>
-
-<!-- ============================================================ -->
-<!-- TROPHY SECTION                                                -->
-<!-- ============================================================ -->
-
-<div align="center">
 
 ## 🏆 GitHub Trophy
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bahar-abn&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bahar-abn&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+</p>
 
 <br/>
-
-<!-- ============================================================ -->
-<!-- CURRENT LEARNING                                              -->
-<!-- ============================================================ -->
-
-<div align="center">
 
 ## 🧠 Currently Thinking About
 
-</div>
-
-```text
+<pre>
 ✓ Vision Transformers (ViT) & Diffusion Models
 ✓ Agentic AI & Multi-Agent Systems
 ✓ Medical AI & Clinical Decision Support
 ✓ RAG Optimization & Vector Databases
 ✓ Edge AI & Model Deployment
 ✓ MLOps & Production-Grade AI
-```
+</pre>
 
 <br/>
-
-<!-- ============================================================ -->
-<!-- DIVIDER                                                      -->
-<!-- ============================================================ -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
@@ -361,49 +259,35 @@ visitor@github:~$ _
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- FOOTER                                                       -->
-<!-- ============================================================ -->
-
-<div align="center">
-
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
   <i>I'm always open to collaborating on AI research and innovative projects!</i>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:baharabolhasany2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bahar-abn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="YOUR_PERSONAL_WEBSITE">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bahar-abn&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+</p>
 
-<a href="mailto:baharabolhasany2004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/bahar-abn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="YOUR_PERSONAL_WEBSITE">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=bahar-abn&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
-<br/>
-<br/>
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/🚀_Building_Intelligence-00D4FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/🔬_Researching_Vision-FF6B6B?style=flat-square"/>
   <img src="https://img.shields.io/badge/🤖_Creating_AI-FC9E4A?style=flat-square"/>
@@ -411,17 +295,18 @@ visitor@github:~$ _
 
 <br/>
 
-### ⭐ Always learning. Always building. Always improving.
+<p align="center">
+  <b>⭐ Always learning. Always building. Always improving.</b>
+</p>
 
-**"Turning research into real-world intelligent systems."**
+<p align="center">
+  <i>"Turning research into real-world intelligent systems."</i>
+</p>
 
 <br/>
 
 ---
 
-<p>
+<p align="center">
   <i>Made with ❤️ and lots of ☕</i>
 </p>
-
-</div>
-```
