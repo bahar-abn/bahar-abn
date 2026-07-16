@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="YOUR_BANNER_GIF_LINK_HERE" width="100%" alt="Banner"/>
-
 <br/><br/>
 
 <h1>👋 Hi, I'm Bahar Abolhasani</h1>
@@ -21,20 +19,8 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/bahar-abolhasani/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:baharabolhasany2004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/bahar-abn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -44,40 +30,6 @@
 </div>
 
 <br/>
-
-## 💻 AI Console
-
-<pre>
-visitor@github:~$ whoami
-
-Bahar Abolhasani
-
-visitor@github:~$ cat /etc/profile
-
-─────────────────────────────────────────────
-🎓 Computer Engineering Student
-📍 Iran
-🧠 AI & Machine Learning Enthusiast
-🔬 Computer Vision Researcher
-⚡ Backend Developer
-─────────────────────────────────────────────
-
-visitor@github:~$ ./status --current
-
-🟢 SYSTEM STATUS: ONLINE
-
-Current Mission:
-Building Enterprise AI Systems & Computer Vision Solutions
-
-Focus Areas:
-• Deep Learning Architectures
-• Medical Image Analysis
-• Large Language Models
-• AI Agents
-• MLOps
-
-visitor@github:~$ _
-</pre>
 
 <br/>
 
@@ -136,78 +88,6 @@ visitor@github:~$ _
 └─────────────────────────────────────────────────────────┘
 </pre>
 
-<br/>
-
-## 🚀 Featured AI Projects
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧠 AI Knowledge Copilot</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Active-00D4FF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stack-RAG+LLM-FF6B6B?style=flat-square"/>
-        <p>
-          <i>Enterprise RAG System with LangChain</i>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">👁️ Computer Vision Pipeline</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Developing-FFD93D?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stack-CV+DL-6BCB77?style=flat-square"/>
-        <p>
-          <i>Real-time Object Detection & Segmentation</i>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-          <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🩺 Medical Image Analysis</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Research-FF6B6B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stack-CNN+ViT-4ECDC4?style=flat-square"/>
-        <p>
-          <i>Brain MRI Segmentation & Classification</i>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MONAI-FFB6C1?style=flat-square"/>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 AI Agent Framework</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Prototype-00D4FF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stack-Agents+LLM-A66CFF?style=flat-square"/>
-        <p>
-          <i>Autonomous AI Agents for Research</i>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ## 📊 GitHub Analytics
 
@@ -266,7 +146,7 @@ visitor@github:~$ _
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/bahar-abolhasani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:baharabolhasany2004@gmail.com">
@@ -274,12 +154,6 @@ visitor@github:~$ _
   </a>
   <a href="https://github.com/bahar-abn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="YOUR_PERSONAL_WEBSITE">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
@@ -304,9 +178,3 @@ visitor@github:~$ _
 </p>
 
 <br/>
-
----
-
-<p align="center">
-  <i>Made with ❤️ and lots of ☕</i>
-</p>
